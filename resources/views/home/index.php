@@ -5,6 +5,9 @@
     <title>Title</title>
 </head>
 <body>
-Lara_0818_u2
+<h2>Lara_0818_u2</h2>
+<p>
+    改用 HomeController回傳
+</p>
 </body>
 </html>
